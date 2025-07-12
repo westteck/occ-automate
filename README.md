@@ -24,3 +24,6 @@ I put my two files in my user root dir.
 ./occ-command.sh files:scan
 
 don't for get to run "chmod +x occ-command.sh" first
+
+for referance to the occ command options see 
+https://docs.nextcloud.com/server/stable/admin_manual/occ_command.html
