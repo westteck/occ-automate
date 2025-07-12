@@ -4,7 +4,7 @@
 PHP_BINARY="/usr/local/bin/php"           # Path to PHP binary
 NEXTCLOUD_DIR="/var/www/html"  # Path to Nextcloud installation
 OCC_USER="www-data"                 # Web server user (e.g., www-data for Apache)
-HELP_FILE="$(dirname "$0")/occ_help.txt"  # Path to help file
+HELP_FILE="$(dirname "$0")/occ_commands.txt"  # Path to help file
 
 # Function to display help file
 display_help() {
